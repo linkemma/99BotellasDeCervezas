@@ -1,0 +1,8 @@
+C:\Users\AMILCAR\source\repos\99BotellasDeCerveza\99BotellasDeCerveza\bin\Debug\99BotellasDeCerveza.exe.config
+C:\Users\AMILCAR\source\repos\99BotellasDeCerveza\99BotellasDeCerveza\bin\Debug\99BotellasDeCerveza.exe
+C:\Users\AMILCAR\source\repos\99BotellasDeCerveza\99BotellasDeCerveza\bin\Debug\99BotellasDeCerveza.pdb
+C:\Users\AMILCAR\source\repos\99BotellasDeCerveza\99BotellasDeCerveza\obj\Debug\99BotellasDeCerveza.csproj.AssemblyReference.cache
+C:\Users\AMILCAR\source\repos\99BotellasDeCerveza\99BotellasDeCerveza\obj\Debug\99BotellasDeCerveza.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMILCAR\source\repos\99BotellasDeCerveza\99BotellasDeCerveza\obj\Debug\99BotellasDeCerveza.csproj.CoreCompileInputs.cache
+C:\Users\AMILCAR\source\repos\99BotellasDeCerveza\99BotellasDeCerveza\obj\Debug\99BotellasDeCerveza.exe
+C:\Users\AMILCAR\source\repos\99BotellasDeCerveza\99BotellasDeCerveza\obj\Debug\99BotellasDeCerveza.pdb
